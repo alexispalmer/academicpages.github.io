@@ -83,7 +83,7 @@ author:
   bio              : "asst. professor of linguistics, University of North Texas"
   location         : "Denton, Texas"
   employer         :
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=NVxAbD8AAAAJ"
   email            : "alexis.palmer@unt.edu"
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "alexispalmer"
+  github           : "alexispalmer"
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/alexis-palmer-787b342/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "lexicutioner"
   vine             :
   weibo            :
   xing             :
