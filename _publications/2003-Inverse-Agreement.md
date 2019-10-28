@@ -3,9 +3,9 @@ title: "Inverse Agreement, Argument Structure, and Hierarchy-Driven Phenomena in
 collection: publications
 permalink: 
 excerpt: 
-date: 2009-1-1
+date: 2003-1-1
 venue: 'Proceedings of the Workshop on American Indigenous Language'
 paperurl: 
 authors: "Palmer, A."
-bib: 
+bib: "files/2003-Inverse-Agreement.bib"
 ---
