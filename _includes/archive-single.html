@@ -37,15 +37,21 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <b>{{ post.authors }}:</b>
-          <b><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </b>
+          <br>{{ post.authors }}:</br>
+          <br><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </br>
             [
             {% if post.bib %}
               <a href="{{ post.bib }}">bib</a>,
             {% elsif post.pdf %}
-              <a href="{{ post.pdf }}">.pdf</a>,
+              <a href="{{ post.pdf }}">.pdf</a>
+                { % if post.bib % }
+                  ,
+                {% endif %}
             {% elsif post.http %}
              <a href="{{ post.http }}">http</a>
+                { % if post.bib or post.pdf % }
+                  ,
+                {% endif %}
             {% endif %}
             ]
         {% elsif post.date %}
