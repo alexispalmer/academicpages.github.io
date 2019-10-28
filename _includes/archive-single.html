@@ -40,24 +40,23 @@
           {{ post.authors }}:<br>
           <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <br>
             [
-    
             {% if post.bib %}
               <a href="{{ post.bib }}">bib</a>
-            { % endif % }
+            {% endif %}
     
             {% if post.pdf %}
               <a href="{{ post.pdf }}">pdf</a>
-              { % if post.bib % }
+              {% if post.bib %}
                 |
-              { % endif % }
-            { % endif % }
+              {% endif %}
+            {% endif %}
     
             {% if post.http %}
               <a href="{{ post.http }}">url</a>
               { % if post.bib or post.pdf % }
                 |
-              { % endif % }
-            { % endif % }
+              {% endif %}
+            {% endif %}
     
             ]
         {% elsif post.date %}
