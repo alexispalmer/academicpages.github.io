@@ -44,14 +44,14 @@
               <a href="{{ post.bib }}">bib</a>,
             {% elsif post.pdf %}
               <a href="{{ post.pdf }}">.pdf</a>
-                { % if post.bib % }
-                  ,
-                {% endif %}
+              { % if post.bib % }
+                ,
+              {% endif %}
             {% elsif post.http %}
-             <a href="{{ post.http }}">http</a>
-                { % if post.bib or post.pdf % }
-                  ,
-                {% endif %}
+              <a href="{{ post.http }}">http</a>
+              { % if post.bib or post.pdf % }
+                ,
+              {% endif %}
             {% endif %}
             ]
         {% elsif post.date %}
