@@ -7,5 +7,5 @@ date: 2003-1-1
 venue: 'Proceedings of the Workshop on American Indigenous Language'
 paperurl: 
 authors: "Palmer, A."
-bib: "files/2003-Inverse-Agreement.bib"
+bib: "../files/palmer_bib.html#palmer:2003"
 ---
