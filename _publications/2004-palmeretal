@@ -7,7 +7,7 @@ date: 2004-1-1
 venue: 'Proceedings of LREC 2004'
 paperurl: 
 authors: "Palmer, A., Kuhn, J., and Smith, C. "
-bib: "../files/2004-palmeretal.bib"
+bib: "../files/palmer_bib.mhtml#palmeretal:2004"
 pdf: 
 http: "https://www.aclweb.org/anthology/L04-1232/"
 
