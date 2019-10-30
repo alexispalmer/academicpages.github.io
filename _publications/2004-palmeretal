@@ -8,6 +8,7 @@ venue: 'Proceedings of LREC 2004'
 paperurl: 
 authors: "Palmer, A., Kuhn, J., and Smith, C. "
 bib: "../files/2004-palmeretal.bib"
-pdf: "https://www.cl.uni-heidelberg.de/~palmer/hnk.ffzg.hr/bibl/lrec2004/pdf/402.pdf"
+pdf: 
+http: "https://www.aclweb.org/anthology/L04-1232/"
 
 ---
