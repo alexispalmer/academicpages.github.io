@@ -1,0 +1,444 @@
+<h1>palmer.bib</h1><a name="palmer:2003"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmer:2003">palmer:2003</a>,
+  author = {Alexis Palmer},
+  title = {{Inverse Agreement, Argument Structure, and Hierarchy-Driven Phenomena in Ojibwe}},
+  year = {2003},
+  booktitle = {Proceedings of the Workshop on American Indigenous Languages}
+}
+</pre>
+
+<a name="palmeretal:2004"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmeretal:2004">palmeretal:2004</a>,
+  author = {Alexis Palmer and Jonas Kuhn and Carlota Smith},
+  title = {{Utilization of Multiple Language Resources for Robust Grammar-Based Tense and Aspect Classification}},
+  year = {2004},
+  booktitle = {Proceedings of LREC 2004},
+  url = {hnk.ffzg.hr/bibl/lrec2004/pdf/402.pdf}
+}
+</pre>
+
+<a name="baldridgeetal:2007"></a><pre>
+@inproceedings{<a href="palmer.mhtml#baldridgeetal:2007">baldridgeetal:2007</a>,
+  author = {Jason Baldridge and Sudipta Chatterjee and Alexis Palmer and Ben Wing},
+  title = {{{DotCCG and VisCCG}: Wiki and Programming Paradigms for Improved Grammar Engineering with {OpenCCG}}},
+  year = {2007},
+  booktitle = {Proceedings of the Grammar Engineering Across Frameworks workshop},
+  url = {<a href="http://cslipublications.stanford.edu/GEAF/2007/papers/geaf07baldridgeetal.pdf">http://cslipublications.stanford.edu/GEAF/2007/papers/geaf07baldridgeetal.pdf</a>}
+}
+</pre>
+
+<a name="palmeretal:2007"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmeretal:2007">palmeretal:2007</a>,
+  author = {Alexis Palmer and Elias Ponvert and Jason Baldridge and Carlota Smith},
+  title = {{A Sequence Model for Situation Entity Classification}},
+  year = {2007},
+  booktitle = {Proceedings of ACL 2007},
+  url = {<a href="http://www.aclweb.org/anthology/P07-1113">http://www.aclweb.org/anthology/P07-1113</a>}
+}
+</pre>
+
+<a name="palmererk:2007"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmererk:2007">palmererk:2007</a>,
+  author = {Alexis Palmer and Katrin Erk},
+  title = {{{IGT-XML}: An {XML} format for interlinearized glossed text}},
+  year = {2007},
+  booktitle = {Proceedings of the Linguistic Annotation Workshop},
+  url = {<a href="http://www.aclweb.org/anthology/W07-1528">http://www.aclweb.org/anthology/W07-1528</a>}
+}
+</pre>
+
+<a name="baldridgepalmer:2009"></a><pre>
+@inproceedings{<a href="palmer.mhtml#baldridgepalmer:2009">baldridgepalmer:2009</a>,
+  author = {Jason Baldridge and Alexis Palmer},
+  title = {{How well does active learning \emph{actually} work? Time-based evaluation of cost-reduction strategies for language documentation}},
+  year = {2009},
+  booktitle = {Proceedings of EMNLP 2009},
+  url = {<a href="http://aclweb.org/anthology-new/D/D09/D09-1031.pdf">http://aclweb.org/anthology-new/D/D09/D09-1031.pdf</a>}
+}
+</pre>
+
+<a name="palmeretal:2009"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmeretal:2009">palmeretal:2009</a>,
+  author = {Alexis Palmer and Taesun Moon and Jason Baldridge},
+  title = {{Evaluating automation strategies in language documentation}},
+  year = {2009},
+  booktitle = {Proceedings of Workshop on Active Learning for Natural Language Processing},
+  url = {<a href="http://aclweb.org/anthology-new/W/W09/W09-1905.pdf">http://aclweb.org/anthology-new/W/W09/W09-1905.pdf</a>}
+}
+</pre>
+
+<a name="palmeretal:2010"></a><pre>
+@article{<a href="palmer.mhtml#palmeretal:2010">palmeretal:2010</a>,
+  author = {Alexis Palmer and Taesun Moon and Jason Baldridge and Katrin Erk and Eric Campbell and Telma Can},
+  title = {{Computational strategies for reducing annotation effort in language documentation}},
+  year = {2010},
+  journal = {Linguistic Issues in Language Technology},
+  volume = {3},
+  number = {4},
+  pages = {1--42},
+  url = {<a href="http://journals.linguisticsociety.org/elanguage/lilt/article/download/663/663-1087-1-PB.pdf">http://journals.linguisticsociety.org/elanguage/lilt/article/download/663/663-1087-1-PB.pdf</a>}
+}
+</pre>
+
+<a name="palmersporleder:2010"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmersporleder:2010">palmersporleder:2010</a>,
+  author = {Alexis Palmer and Caroline Sporleder},
+  title = {{Evaluating {FrameNet}-style semantic parsing: the role of coverage gaps in {FrameNet}}},
+  year = {2010},
+  booktitle = {Proceedings of COLING 2010},
+  url = {<a href="http://aclweb.org/anthology-new/C/C10/C10-2107.pdf">http://aclweb.org/anthology-new/C/C10/C10-2107.pdf</a>}
+}
+</pre>
+
+<a name="rehbeinetal:2010"></a><pre>
+@inproceedings{<a href="palmer.mhtml#rehbeinetal:2010">rehbeinetal:2010</a>,
+  author = {Ines Rehbein and Josef Ruppenhofer and Alexis Palmer},
+  title = {{Bringing Active Learning to Life}},
+  year = {2010},
+  booktitle = {Proceedings of COLING 2010},
+  url = {<a href="http://aclweb.org/anthology-new/C/C10/C10-1107.pdf">http://aclweb.org/anthology-new/C/C10/C10-1107.pdf</a>}
+}
+</pre>
+
+<a name="chenetal:2011"></a><pre>
+@inproceedings{<a href="palmer.mhtml#chenetal:2011">chenetal:2011</a>,
+  author = {Chenhua Chen and Alexis Palmer and Caroline Sporleder},
+  title = {{Enhancing Active Learning for Semantic Role Labeling via Compressed Dependency Trees}},
+  year = {2011},
+  booktitle = {Proceedings of IJCNLP 2011},
+  url = {<a href="http://aclweb.org/anthology-new/I/I11/I11-1021.pdf">http://aclweb.org/anthology-new/I/I11/I11-1021.pdf</a>}
+}
+</pre>
+
+<a name="palmeretal:2011"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmeretal:2011">palmeretal:2011</a>,
+  author = {Alexis Palmer and Afra Alishahi and Caroline Sporleder},
+  title = {{Robust Semantic Analysis for Unseen Data in {FrameNet}}},
+  year = {2011},
+  booktitle = {Proceedings of RANLP 2011},
+  url = {<a href="http://aclweb.org/anthology-new/R/R11/R11-1090.pdf">http://aclweb.org/anthology-new/R/R11/R11-1090.pdf</a>}
+}
+</pre>
+
+<a name="littaueretal:2012"></a><pre>
+@inproceedings{<a href="palmer.mhtml#littaueretal:2012">littaueretal:2012</a>,
+  author = {Richard Littauer and Rory Turnbull and Alexis Palmer},
+  title = {{Visualising Typological Relationships: Plotting {WALS} with Heat Maps}},
+  year = {2012},
+  booktitle = {LINGVIS Workshop at EACL 2012},
+  url = {<a href="http://aclweb.org/anthology/W/W12/W12-0205.pdf">http://aclweb.org/anthology/W/W12/W12-0205.pdf</a>}
+}
+</pre>
+
+<a name="palmeretal:2012"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmeretal:2012">palmeretal:2012</a>,
+  author = {Alexis Palmer and Caroline Sporleder and Linlin Li},
+  title = {{So to Speak: A Computational and Empirical Investigation of Lexical Cohesion of Non-Literal and Literal Expressions in Text}},
+  year = {2012},
+  booktitle = {Discours: Revue de linguistique, psycholinguistique et informatique},
+  volume = {1},
+  url = {<a href="http://discours.revues.org/8731">http://discours.revues.org/8731</a>}
+}
+</pre>
+
+<a name="horbachetal:2013"></a><pre>
+@inproceedings{<a href="palmer.mhtml#horbachetal:2013">horbachetal:2013</a>,
+  author = {Andrea Horbach and Alexis Palmer and Manfred Pinkal},
+  title = {{Using the text to evaluate short answers for reading comprehension exercises}},
+  year = {2013},
+  booktitle = {Proceedings of *SEM 2013},
+  url = {<a href="http://aclweb.org/anthology/S/S13/S13-1041.pdf">http://aclweb.org/anthology/S/S13/S13-1041.pdf</a>}
+}
+</pre>
+
+<a name="emersonetal:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#emersonetal:2014">emersonetal:2014</a>,
+  author = {Guy Emerson and Liling Tan and Susanne Fertmann and Alexis Palmer and Michaela Regneri},
+  title = {{{SeedLing}: Building and using a seed corpus for the Human Language Project}},
+  year = {2014},
+  booktitle = {ACL workshop ComputEL: The use of computational methods in the study of endangered languages},
+  url = {<a href="http://www.aclweb.org/anthology/W14-2211">http://www.aclweb.org/anthology/W14-2211</a>}
+}
+</pre>
+
+<a name="friedrichpalmer:2014a"></a><pre>
+@inproceedings{<a href="palmer.mhtml#friedrichpalmer:2014a">friedrichpalmer:2014a</a>,
+  author = {Annemarie Friedrich and Alexis Palmer},
+  title = {{Automatic prediction of aspectual class of verbs in context}},
+  year = {2014},
+  booktitle = {Proceedings of ACL 2014},
+  url = {<a href="http://www.aclweb.org/anthology/P14-2085">http://www.aclweb.org/anthology/P14-2085</a>}
+}
+</pre>
+
+<a name="friedrichpalmer:2014c"></a><pre>
+@inproceedings{<a href="palmer.mhtml#friedrichpalmer:2014c">friedrichpalmer:2014c</a>,
+  author = {Annemarie Friedrich and Alexis Palmer},
+  title = {{Centering Theory in natural text: a large-scale corpus study}},
+  year = {2014},
+  booktitle = {Proceedings of KONVENS 2014},
+  url = {<a href="http://www.coli.uni-saarland.de/~afried/files/centering-konvens2014.pdf">http://www.coli.uni-saarland.de/~afried/files/centering-konvens2014.pdf</a>}
+}
+</pre>
+
+<a name="friedrichpalmer:2014b"></a><pre>
+@inproceedings{<a href="palmer.mhtml#friedrichpalmer:2014b">friedrichpalmer:2014b</a>,
+  author = {Annemarie Friedrich and Alexis Palmer},
+  title = {{Situation entity annotation}},
+  year = {2014},
+  booktitle = {Proceedings of the 8th Linguistic Annotation Workshop (LAW VIII)},
+  url = {<a href="http://www.aclweb.org/anthology/W14-4921">http://www.aclweb.org/anthology/W14-4921</a>}
+}
+</pre>
+
+<a name="friedrichetal:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#friedrichetal:2014">friedrichetal:2014</a>,
+  author = {Annemarie Friedrich and Marina Valeeva and Alexis Palmer},
+  title = {{LQVSumm: A corpus of linguistic quality violations in multi-document summarization}},
+  year = {2014},
+  booktitle = {Proceedings of LREC 2014},
+  url = {<a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/578_Paper.pdf">http://www.lrec-conf.org/proceedings/lrec2014/pdf/578_Paper.pdf</a>}
+}
+</pre>
+
+<a name="horbachetal:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#horbachetal:2014">horbachetal:2014</a>,
+  author = {Andrea Horbach and Alexis Palmer and Magdalene Wolska},
+  title = {{Finding a Tradeoff between Accuracy and Rater's Workload in Grading Clustered Short Answers}},
+  year = {2014},
+  booktitle = {Proceedings of LREC 2014},
+  url = {<a href="http://www.lrec-conf.org/proceedings/lrec2014/pdf/887_Paper.pdf">http://www.lrec-conf.org/proceedings/lrec2014/pdf/887_Paper.pdf</a>}
+}
+</pre>
+
+<a name="kolevaetal:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#kolevaetal:2014">kolevaetal:2014</a>,
+  author = {Nikolina Koleva and Andrea Horbach and Alexis Palmer and Simon Ostermann and Manfred Pinkal},
+  title = {{Paraphrase Detection for Short Answer Scoring}},
+  year = {2014},
+  booktitle = {Proceedings of the 3rd NLP4CALL Workshop},
+  url = {<a href="http://www.ep.liu.se/ecp/107/005/ecp14107005.pdf">http://www.ep.liu.se/ecp/107/005/ecp14107005.pdf</a>}
+}
+</pre>
+
+<a name="ostermannetal:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#ostermannetal:2014">ostermannetal:2014</a>,
+  author = {Simon Ostermann and Nikolina Koleva and Alexis Palmer and Andrea Horbach},
+  title = {{CSGS: Adapting a short answer scoring system for multiple-choice reading comprehension exercises}},
+  year = {2014},
+  booktitle = {Proceedings of CLEF 2014 QA Track, Entrance Exam Challenge},
+  url = {<a href="http://ceur-ws.org/Vol-1180/CLEF2014wn-QA-OstermannEt2014.pdf">http://ceur-ws.org/Vol-1180/CLEF2014wn-QA-OstermannEt2014.pdf</a>}
+}
+</pre>
+
+<a name="palmerfriedrich:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmerfriedrich:2014">palmerfriedrich:2014</a>,
+  author = {Alexis Palmer and Annemarie Friedrich},
+  title = {{Genre distinctions and discourse modes: Text types differ in their situation type distributions}},
+  year = {2014},
+  booktitle = {Proceedings of the Symposium on Frontiers and Connections between Argumentation Mining and Natural Language Processing},
+  address = {Bertinoro, Italy},
+  url = {<a href="http://ceur-ws.org/Vol-1341/paper13.pdf">http://ceur-ws.org/Vol-1341/paper13.pdf</a>}
+}
+</pre>
+
+<a name="palmerregneri:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#palmerregneri:2014">palmerregneri:2014</a>,
+  author = {Alexis Palmer and Michaela Regneri},
+  title = {{Short-term projects, long-term benefits: Four student NLP projects for low-resource languages}},
+  year = {2014},
+  booktitle = {ACL workshop ComputEL: The use of computational methods in the study of endangered languages},
+  url = {https://www.aclweb.org/anthology/W/W14/W14-2212.pdf}
+}
+</pre>
+
+<a name="vakilpalmer:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#vakilpalmer:2014">vakilpalmer:2014</a>,
+  author = {Anjana Vakil and Alexis Palmer},
+  title = {{Cross-language mapping for small-vocabulary ASR in under-resourced languages: Investigating the impact of language choice}},
+  year = {2014},
+  booktitle = {4th Workshop on Spoken Language Technologies for Under-resourced Languages},
+  url = {<a href="http://mica.edu.vn/sltu2014/proceedings/24.pdf">http://mica.edu.vn/sltu2014/proceedings/24.pdf</a>}
+}
+</pre>
+
+<a name="vakiletal:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#vakiletal:2014">vakiletal:2014</a>,
+  author = {Anjana Vakil and Maximillian Paulus and Alexis Palmer and Michaela Regneri},
+  title = {{lex4all: A language-independent tool for building and evaluating pronunciation lexicons for small-vocabulary speech recognition}},
+  year = {2014},
+  booktitle = {Proceedings of ACL 2014: Demo Session},
+  url = {<a href="http://www.aclweb.org/anthology/P14-5019">http://www.aclweb.org/anthology/P14-5019</a>}
+}
+</pre>
+
+<a name="wolskaetal:2014"></a><pre>
+@inproceedings{<a href="palmer.mhtml#wolskaetal:2014">wolskaetal:2014</a>,
+  author = {Magdalena Wolska and Andrea Horbach and Alexis Palmer},
+  title = {{Computer-assisted Scoring of Short Responses: The Efficiency of a Clustering-based Approach in a Real-life Task}},
+  year = {2014},
+  booktitle = {Proceedings of PolTAL 2014},
+  url = {www.sfs.uni-tuebingen.de/~mwolska/poltal-14-prefinaldraft.pdf}
+}
+</pre>
+
+<a name="friedrichetal:2015"></a><pre>
+@inproceedings{<a href="palmer.mhtml#friedrichetal:2015">friedrichetal:2015</a>,
+  author = {Annemarie Friedrich and Alexis Palmer and {Melissa Peate} Sorenson and Manfred Pinkal},
+  title = {{Annotating genericity: a survey, a scheme, and a corpus}},
+  year = {2015},
+  booktitle = {Proceedings of the 9th Linguistic Annotation Workshop (LAW IX)},
+  url = {<a href="http://www.aclweb.org/anthology/W15-1603">http://www.aclweb.org/anthology/W15-1603</a>}
+}
+</pre>
+
+<a name="horbachetal:2015"></a><pre>
+@inproceedings{<a href="palmer.mhtml#horbachetal:2015">horbachetal:2015</a>,
+  author = {Andrea Horbach and Jonathan Poitz and Alexis Palmer},
+  title = {{Using Shallow Syntactic Features to Measure Influences of L1 and Proficiency Level in EFL Writings}},
+  year = {2015},
+  booktitle = {Proceedings of 4th NLP4CALL Workshop (NLP for Computer-Aided Language Learning)},
+  url = {<a href="http://www.ep.liu.se/ecp/114/004/ecp15114004.pdf">http://www.ep.liu.se/ecp/114/004/ecp15114004.pdf</a>}
+}
+</pre>
+
+<a name="kisselewetal:2015"></a><pre>
+@inproceedings{<a href="palmer.mhtml#kisselewetal:2015">kisselewetal:2015</a>,
+  author = {Max Kisselew and Sebastian Pad\'{o} and Alexis Palmer and Jan Snajder},
+  title = {{Obtaining a Better Understanding of Distributional Models of German Derivational Morphology}},
+  year = {2015},
+  booktitle = {Proceedings of the 11th International Conference on Computational Semantics (IWCS 2015)},
+  url = {<a href="http://anthology.aclweb.org/W/W15/W15-0108.pdf">http://anthology.aclweb.org/W/W15/W15-0108.pdf</a>}
+}
+</pre>
+
+<a name="mavridouetal:2015"></a><pre>
+@inproceedings{<a href="palmer.mhtml#mavridouetal:2015">mavridouetal:2015</a>,
+  author = {Kleio-Isidora Mavridou and Annemarie Friedrich and {Melissa Peate} Sorensen and Alexis Palmer and Manfred Pinkal},
+  title = {{Linking discourse modes and situation entities in a cross-linguistic corpus study}},
+  year = {2015},
+  booktitle = {Proceedings of the EMNLP Workshop LSDSem 2015: Linking Models of Lexical, Sentential and Discourse-level Semantics},
+  address = {Co-located with EMNLP 2015},
+  url = {<a href="http://www.aclweb.org/anthology/W15-2702">http://www.aclweb.org/anthology/W15-2702</a>}
+}
+</pre>
+
+<a name="padoetal:2015"></a><pre>
+@inproceedings{<a href="palmer.mhtml#padoetal:2015">padoetal:2015</a>,
+  author = {Sebastian Pad\'{o} and Alexis Palmer and Max Kisselew and Jan Snajder},
+  title = {{Measuring Semantic Content to Assess Asymmetry in Derivation}},
+  year = {2015},
+  booktitle = {Advances in Distributional Semantics workshop at IWCS 2015},
+  note = {extended abstract},
+  url = {https://drive.google.com/file/d/0B-11uAk0z3L6bHVpTU9oM1V1WVk/view?usp=sharing}
+}
+</pre>
+
+<a name="zhouetal:2015"></a><pre>
+@inproceedings{<a href="palmer.mhtml#zhouetal:2015">zhouetal:2015</a>,
+  author = {Mengfei Zhou and Anette Frank and Annemarie Friedrich and Alexis Palmer},
+  title = {{Semantically Enriched Models for Modal Sense Classification}},
+  year = {2015},
+  booktitle = {Proceedings of the EMNLP 2015 Workshop LSDSem: Linking Models of Lexical, Sentential and Discourse-level Semantics},
+  month = {September},
+  address = {Lisbon, Portugal},
+  url = {<a href="http://www.aclweb.org/anthology/W15-2705">http://www.aclweb.org/anthology/W15-2705</a>}
+}
+</pre>
+
+<a name="beckeretal:2016b"></a><pre>
+@inproceedings{<a href="palmer.mhtml#beckeretal:2016b">beckeretal:2016b</a>,
+  author = {Maria Becker and Alexis Palmer and Anette Frank},
+  title = {{Clause Types and Modality in Argumentative Microtexts}},
+  year = {2016},
+  booktitle = {Workshop on Foundations of the Language of Argumentation (in conjunction with COMMA 2016)},
+  pages = {1--9},
+  address = {Potsdam, Germany},
+  url = {<a href="http://www.ling.uni-potsdam.de/comma2016/pdf/FLA16-proceedings.pdf">http://www.ling.uni-potsdam.de/comma2016/pdf/FLA16-proceedings.pdf</a>}
+}
+</pre>
+
+<a name="beckeretal:2016a"></a><pre>
+@inproceedings{<a href="palmer.mhtml#beckeretal:2016a">beckeretal:2016a</a>,
+  author = {Maria Becker and Alexis Palmer and Anette Frank},
+  title = {{Argumentative texts and clause types}},
+  year = {2016},
+  booktitle = {Proceedings of the 3rd Workshop on Argument Mining (ArgMining2016)},
+  pages = {21--30},
+  address = {Berlin, Germany},
+  url = {<a href="http://aclweb.org/anthology/W/W16/W16-2803.pdf">http://aclweb.org/anthology/W/W16/W16-2803.pdf</a>}
+}
+</pre>
+
+<a name="friedrichetal:2016"></a><pre>
+@inproceedings{<a href="palmer.mhtml#friedrichetal:2016">friedrichetal:2016</a>,
+  author = {Annemarie Friedrich and Alexis Palmer and Manfred Pinkal},
+  title = {{Situation entity types: automatic classification of clause-level aspect}},
+  year = {2016},
+  booktitle = {Proceedings of ACL 2016}
+}
+</pre>
+
+<a name="horbachpalmer:2016"></a><pre>
+@inproceedings{<a href="palmer.mhtml#horbachpalmer:2016">horbachpalmer:2016</a>,
+  author = {Andrea Horbach and Alexis Palmer},
+  title = {{Investigating Active Learning for Short-Answer Scoring}},
+  year = {2016},
+  booktitle = {Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications}
+}
+</pre>
+
+<a name="kisselewetal:2016"></a><pre>
+@inproceedings{<a href="palmer.mhtml#kisselewetal:2016">kisselewetal:2016</a>,
+  author = {Max Kisselew and Laura Rimell and Alexis Palmer and Sebastian Pado},
+  title = {{Predicting the Direction of Derivation in English Conversion}},
+  year = {2016},
+  booktitle = {Proceedings of the 14th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology}
+}
+</pre>
+
+<a name="marasovicetal:2016"></a><pre>
+@inproceedings{<a href="palmer.mhtml#marasovicetal:2016">marasovicetal:2016</a>,
+  author = {Ana Marasovi\'{c} and Megfei Zhou and Alexis Palmer and Anette Frank},
+  title = {{Modal Sense Classification At Large: Paraphrase-Driven Sense Projection, Semantically Enriched Classification Models and Cross-Genre Evaluations}},
+  year = {2016},
+  publisher = {CSLI Publications},
+  booktitle = {Linguistic Issues in Language Technology, Special issue on Modality in Natural Language Understanding},
+  volume = {14 (2)},
+  address = {Stanford, CA.},
+  url = {<a href="http://csli-lilt.stanford.edu/ojs/index.php/LiLT/article/view/65">http://csli-lilt.stanford.edu/ojs/index.php/LiLT/article/view/65</a>}
+}
+</pre>
+
+<a name="beckeretal:2017b"></a><pre>
+@article{<a href="palmer.mhtml#beckeretal:2017b">beckeretal:2017b</a>,
+  author = {Maria Becker and Alexis Palmer and Anette Frank},
+  title = {{Semantic Clause Types and Modality as Features for Argument Analysis}},
+  year = {2017},
+  journal = {Argument {\&} Computation},
+  volume = {Special Issue on Language and Argumentation},
+  url = {https://content.iospress.com/download/argument-and-computation/aac019?id=argument-and-computation%2Faac019}
+}
+</pre>
+
+<a name="beckeretal:2018c"></a><pre>
+@inproceedings{<a href="palmer.mhtml#beckeretal:2018c">beckeretal:2018c</a>,
+  author = {Maria Becker and Michael Staniek and Vivi Nastase and Alexis Palmer and Anette Frank},
+  title = {{Automatisches Klassifizieren Semantischer Clauses: Modellierung von Kontext und Genremerkmalen mit Rekurrenten Neuronalen Netzwerken und dem Attention-Mechanismus.}},
+  year = {2018},
+  booktitle = {54. Jahrestagung des Instituts f\"{u}r Deutsche Sprache. Mannheim (poster)},
+  url = {https://www.cl.uni-heidelberg.de/~mbecker/Poster/Poster_IDSJT.pdf}
+}
+</pre>
+
+<a name="beckeretal:2018b"></a><pre>
+@inproceedings{<a href="palmer.mhtml#beckeretal:2018b">beckeretal:2018b</a>,
+  author = {Maria Becker and Michael Staniek and Vivi Nastase and Alexis Palmer and Anette Frank},
+  title = {{The Impact of Attention Mechanism, Context and Genre Information when Classifying Semantic Clause Types with Recurrent Neural Networks}},
+  year = {2018},
+  booktitle = {40th Annual Conference of the German Linguistic Society (DGfS). Stuttgart.}
+}
+</pre>
+
+<hr><p><em>This file was generated by
+<a href="http://www.lri.fr/~filliatr/bibtex2html/">bibtex2html</a> 1.98.</em></p>
